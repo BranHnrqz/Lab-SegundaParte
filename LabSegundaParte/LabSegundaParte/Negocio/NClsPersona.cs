@@ -10,7 +10,7 @@ namespace LabSegundaParte.Negocio
     class NClsPersona
     {
 
-        ClsPersona per = new ClsPersona(0, 0);
+        ClsPersona per = new ClsPersona();
         public string calcularIMC()
         {
           double pro = per.Peso / Math.Pow(per.Altura, 2);

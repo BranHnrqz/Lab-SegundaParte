@@ -42,6 +42,9 @@ namespace LabSegundaParte.Entidades
             this.peso = peso;
             this.altura = altura;
         }
+        public ClsPersona()
+        {
+        }
 
         public override string ToString()
         {
