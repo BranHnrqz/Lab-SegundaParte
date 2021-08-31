@@ -21,6 +21,9 @@ namespace LabSegundaParte.Entidades
         public double Peso { get => peso; set => peso = value; }
         public double Altura { get => altura; set => altura = value; }
 
+
+        public ClsPersona(){}
+
         public ClsPersona(string nombre, int edad, string sexo)
         {
             this.nombre = nombre;
@@ -42,14 +45,11 @@ namespace LabSegundaParte.Entidades
             this.peso = peso;
             this.altura = altura;
         }
-        public ClsPersona()
-        {
-        }
-
+      
         public override string ToString()
         {
-            return "¡Hola " + nombre + "\n" +
-                   "Tienes " + edad + "años\n" +
+            return "\n¡Hola " + nombre + "\n" +
+                   "Tienes " + edad + " años\n" +
                    "Tu sexo es " + sexo + "\n" +
                    "Y mides " + altura + " metros de altura!";
         }

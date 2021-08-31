@@ -1,0 +1,7 @@
+C:\Users\BRANDON\Documents\GitHub\Lab-SegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.exe.config
+C:\Users\BRANDON\Documents\GitHub\Lab-SegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.exe
+C:\Users\BRANDON\Documents\GitHub\Lab-SegundaParte\LabSegundaParte\LabSegundaParte\bin\Debug\LabSegundaParte.pdb
+C:\Users\BRANDON\Documents\GitHub\Lab-SegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.AssemblyReference.cache
+C:\Users\BRANDON\Documents\GitHub\Lab-SegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.csproj.CoreCompileInputs.cache
+C:\Users\BRANDON\Documents\GitHub\Lab-SegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.exe
+C:\Users\BRANDON\Documents\GitHub\Lab-SegundaParte\LabSegundaParte\LabSegundaParte\obj\Debug\LabSegundaParte.pdb
